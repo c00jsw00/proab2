@@ -1,0 +1,27 @@
+# PDB Files
+pdb_files:
+pred.rank_0.cif
+pred.rank_1.cif
+pred.rank_2.cif
+pred.rank_3.cif
+pred.rank_4.cif
+
+# CDR Residues
+cdr_residues:
+CDR-H1: A 64-68
+CDR-H2: A 83-99
+CDR-H3: A 132-135
+CDR-L1: B 55-64
+CDR-L2: B 81-87
+CDR-L3: B 120-128
+
+# Ab Lock Residues
+ab_lock_residues:
+A: 1-31
+B: 1-26
+
+# Substrate Residues
+substrate_residues:
+A: 26-31
+B: 21-26
+
